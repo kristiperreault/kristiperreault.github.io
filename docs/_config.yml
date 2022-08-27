@@ -38,13 +38,13 @@ navbar-links:
   Appearances: "appearances"
   About Me: "aboutme"
 
-avatar: "/assets/kristi.jpeg"
+avatar: "/assets/kristi.png"
 
 social-network-links:
   email: "kristiperreault95@gmail.com"
   github: kristiperreault
   twitter: kristiperreault95
-  linkedin: "kristiperreault"
+  linkedin: "kristi-perreault"
 
 share-links-active:
   twitter: true

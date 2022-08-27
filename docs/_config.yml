@@ -24,14 +24,31 @@ description: >- # this means to ignore newlines until "baseurl:"
   My new personal website
 baseurl: "" # the subpath of your site, e.g. /blog
 url: https://kristiperreault.github.io # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
+twitter_username: kristiperreault95
+github_username:  kristiperreault
 
 # Build settings
 remote_theme: daattali/beautiful-jekyll@5.0.0
 plugins:
   - jekyll-feed
   - jekyll-remote-theme
+
+navbar-links:
+  Blog: "/"
+  Appearances: "appearances"
+  About Me: "aboutme"
+
+avatar: "/assets/kristi.jpeg"
+
+social-network-links:
+  email: "kristiperreault95@gmail.com"
+  github: kristiperreault
+  twitter: kristiperreault95
+  linkedin: "kristiperreault"
+
+share-links-active:
+  twitter: true
+  linkedin: true
 
 # Exclude from processing.
 # The following items will not be processed, by default.
